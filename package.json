@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-has-async-iterator-symbol-support",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Detect native Symbol.asyncIterator support.",
   "license": "Apache-2.0",
   "author": {
