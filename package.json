@@ -42,7 +42,8 @@
   "dependencies": {
     "@stdlib/assert-has-own-property": "^0.1.1",
     "@stdlib/cli-ctor": "^0.1.1",
-    "@stdlib/fs-read-file": "^0.1.1"
+    "@stdlib/fs-read-file": "^0.1.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.1.1"
   },
   "devDependencies": {
     "@stdlib/assert-has-symbol-support": "^0.1.1",
