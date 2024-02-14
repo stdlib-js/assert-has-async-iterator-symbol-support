@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-has-async-iterator-symbol-support",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Detect native Symbol.asyncIterator support.",
   "license": "Apache-2.0",
   "author": {
@@ -42,7 +42,7 @@
   "dependencies": {
     "@stdlib/assert-has-own-property": "^0.1.1",
     "@stdlib/cli-ctor": "^0.1.1",
-    "@stdlib/fs-read-file": "^0.1.1"
+    "@stdlib/fs-read-file": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/assert-has-symbol-support": "^0.1.1",
