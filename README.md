@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import hasAsyncIteratorSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-async-iterator-symbol-support@esm/index.mjs';
+import hasAsyncIteratorSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-async-iterator-symbol-support@v0.2.1-esm/index.mjs';
 ```
 
 #### hasAsyncIteratorSymbolSupport()
@@ -76,7 +76,7 @@ var bool = hasAsyncIteratorSymbolSupport();
 <body>
 <script type="module">
 
-import hasAsyncIteratorSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-async-iterator-symbol-support@esm/index.mjs';
+import hasAsyncIteratorSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-async-iterator-symbol-support@v0.2.1-esm/index.mjs';
 
 var bool = hasAsyncIteratorSymbolSupport();
 if ( bool ) {
