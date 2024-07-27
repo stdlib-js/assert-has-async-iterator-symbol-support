@@ -44,6 +44,11 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
+import hasAsyncIteratorSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-async-iterator-symbol-support@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-has-async-iterator-symbol-support/tags). For example,
+
+```javascript
 import hasAsyncIteratorSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-async-iterator-symbol-support@v0.2.2-esm/index.mjs';
 ```
 
@@ -76,7 +81,7 @@ var bool = hasAsyncIteratorSymbolSupport();
 <body>
 <script type="module">
 
-import hasAsyncIteratorSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-async-iterator-symbol-support@v0.2.2-esm/index.mjs';
+import hasAsyncIteratorSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-async-iterator-symbol-support@esm/index.mjs';
 
 var bool = hasAsyncIteratorSymbolSupport();
 if ( bool ) {
